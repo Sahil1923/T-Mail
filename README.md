@@ -7,6 +7,7 @@ Step1: apt install git python python2 python3 -y
 Step2: pip install --upgrade pip 
 
 
+#NOTE : First extract the zip and tar.gz files!
 
 Setp3: git clone https://github.com/Sahil1923/T-Mail 
 
